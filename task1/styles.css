@@ -27,8 +27,12 @@ body {
     font-size: 150%;
   }
   
-  .box1.blink {
+  .box1.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box1.blinkdown {
+    background-color: #444; 
   }
   
   .box2 {
@@ -39,8 +43,12 @@ body {
     font-size: 150%;
   }
   
-  .box2.blink {
+  .box2.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box2.blinkdown {
+    background-color: #444; 
   }
   
   .box3 {
@@ -51,10 +59,14 @@ body {
     font-size: 150%;
   }
   
-  .box3.blink {
-      background-color: #bfbfbf;
+  .box3.blinkup {
+    background-color: #bfbfbf;
+}
+
+  .box3.blinkdown {
+    background-color: #444; 
   }
-  
+
   .box4 {
     background-color: #444;
     color: #fff;
@@ -63,8 +75,12 @@ body {
     font-size: 150%;
   }
   
-  .box4.blink {
-      background-color: #bfbfbf;
+  .box4.blinkup {
+    background-color: #bfbfbf;
+  }
+
+  .box4.blinkdown {
+    background-color: #444; 
   }
   
   .box5 {
@@ -75,8 +91,12 @@ body {
     font-size: 150%;
   }
   
-  .box5.blink {
+  .box5.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box5.blinkdown {
+    background-color: #444; 
   }
   
   .box6 {
@@ -87,8 +107,12 @@ body {
     font-size: 150%;
   }
   
-  .box6.blink {
+  .box6.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box6.blinkdown {
+    background-color: #444; 
   }
   
   .box7 {
@@ -99,8 +123,12 @@ body {
     font-size: 150%;
   }
   
-  .box7.blink {
+  .box7.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box7.blinkdown {
+    background-color: #444; 
   }
   
   .box8 {
@@ -111,8 +139,12 @@ body {
     font-size: 150%;
   }
   
-  .box8.blink {
+  .box8.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box8.blinkdown {
+    background-color: #444; 
   }
   
   .box9 {
@@ -123,8 +155,12 @@ body {
     font-size: 150%;
   }
   
-  .box9.blink {
+  .box9.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box9.blinkdown {
+    background-color: #444; 
   }
   
   .box10 {
@@ -135,9 +171,12 @@ body {
     font-size: 150%;
   }
   
-  
-  .box10.blink {
+  .box10.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box10.blinkdown {
+    background-color: #444; 
   }
   
   .box11 {
@@ -148,9 +187,12 @@ body {
     font-size: 150%;
   }
   
-  
-  .box11.blink {
+  .box11.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box11.blinkdown {
+    background-color: #444; 
   }
   
   .box12 {
@@ -161,9 +203,14 @@ body {
     font-size: 150%;
   }
   
-  .box12.blink {
+  .box12.blinkup {
       background-color: #bfbfbf;
   }
+
+  .box12.blinkdown {
+    background-color: #444; 
+  }
+
   .box13 {
     background-color: #444;
     color: #fff;
@@ -172,9 +219,14 @@ body {
     font-size: 150%;
   }
   
-  .box13.blink {
+  .box13.blinkup {
       background-color: #bfbfbf;
   }
+
+  .box13.blinkdown {
+    background-color: #444; 
+  }
+
   .box14 {
     background-color: #444;
     color: #fff;
@@ -182,9 +234,15 @@ body {
     padding: 45px;
     font-size: 150%;
   }
-  .box14.blink {
+
+  .box14.blinkup {
       background-color: #bfbfbf;
   }
+
+  .box14.blinkdown {
+    background-color: #444; 
+  }
+
   .box15 {
     background-color: #444;
     color: #fff;
@@ -193,9 +251,14 @@ body {
     font-size: 150%;
   }
   
-  .box15.blink {
+  .box15.blinkup {
       background-color: #bfbfbf;
   }
+
+  .box15.blinkdown {
+    background-color: #444; 
+  }
+
   .box16 {
     background-color: #444;
     color: #fff;
@@ -204,7 +267,11 @@ body {
     font-size: 150%;
   }
   
-  .box16.blink {
+  .box16.blinkup {
       background-color: #bfbfbf;
+  }
+
+  .box16.blinkdown {
+    background-color: #444; 
   }
   
